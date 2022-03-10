@@ -5,6 +5,7 @@
 ### 4 OTT Basic EDA
 1. [🔴Netflix Visualizations, Recommendation, EDA🍿](https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda)
 2. [Netflix Data Visualization - Target Ages](https://www.kaggle.com/joshuaswords/netflix-data-visualization)
+3. [IMDb Top 1000 dataset](https://www.kaggle.com/hrishabhtiwari/imdb-top-1000-movies-dataset)
 #
 ### ott와 애니메이션의 상관관계
 1. [[Plotly] Ultimate Web Series EDA!](https://www.kaggle.com/foolofatook/plotly-ultimate-web-series-eda/notebook)
